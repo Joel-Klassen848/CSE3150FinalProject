@@ -6,4 +6,5 @@ We plan to create a GUI as per the instruction sheet, so that the application is
 
 Οur primary resource will be Beej’s Guide to Network Programming, which, although written for C programming, will be equally useful for a C++ project since the concepts transfer directly from C to C++ code. We will also use AI to review our code for bugs and memory problems, and as a learning resource, since we do not have much prior experience with C++ network programming. We will use Wireshark to compare the packets that we analyze with a known packet analyzer.
 
-Link to codespace: [https://studious-tribble-x5q9jjrq9g9j3xp9.github.dev/](https://prod.liveshare.vsengsaas.visualstudio.com/join?25366102B6601DE4348FBE9A2A38FB357106)
+Link to codespace: 
+https://prod.liveshare.vsengsaas.visualstudio.com/join?B9DC7E1662BCB2A0864DF05142AA171AD7F0 
